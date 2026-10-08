@@ -1,19 +1,33 @@
-# APE 02: Implementación de acceso secuencial y aleatorio a archivos
+# 📚 Estructura de Datos — APE 02
+
+Práctica académica enfocada en el análisis y la comparación de
+métodos de lectura de archivos en JavaScript utilizando Node.js.
+
+---
 
 ## 📌 Información general
+
+| **Detalle** | **Descripción** |
+|:---|:---|
+| 📘 Asignatura | Estructura de Datos |
+| 📝 Práctica | N.º 02 |
+| 👨‍🏫 Docente | Cristian Ramiro Narváez Guillén |
+| 💻 Tecnología | JavaScript y Node.js |
+| 🛠️ Editor | Visual Studio Code |
+
+---
+
 ## 👥 Integrantes del grupo
 
-- Valeria Agila
-- Pilar Naranjo
-- Jose Valencia
-- Alison Tapia
-- Roy Gordillo
+| **N.º** | **Nombre del integrante** |
+|:---:|:---|
+| 1 | Valeria Agila |
+| 2 | Pilar Naranjo |
+| 3 | Jose Valencia |
+| 4 | Alison Tapia |
+| 5 | Roy Gordillo |
 
-- **Asignatura:** Estructura de Datos
-- **Práctica:** N.º 02
-- **Docente:** Cristian Ramiro Narváez Guillén
-- **Tecnología:** JavaScript y Node.js
-- **Editor:** Visual Studio Code
+---
 
 ## 🎯 Objetivo
 
