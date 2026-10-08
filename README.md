@@ -1,6 +1,13 @@
 # APE 02: Implementación de acceso secuencial y aleatorio a archivos
 
 ## 📌 Información general
+## 👥 Integrantes del grupo
+
+- Valeria Agila
+- Pilar Naranjo
+- Jose Valencia
+- Alison Tapia
+- Roy Gordillo
 
 - **Asignatura:** Estructura de Datos
 - **Práctica:** N.º 02
