@@ -19,3 +19,4 @@ readableStream.on('end', () => {
     console.log(`[Lectura por Stream] Consumo Neto de RAM: ${((memoryAfter - 
     memoryBefore) / 1024 / 1024).toFixed(2)} MB`); 
 });
+

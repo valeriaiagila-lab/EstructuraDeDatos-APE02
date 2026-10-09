@@ -29,3 +29,4 @@ writableStream.on('finish', () => {
   const sizeInMB = stats.size / (1024 * 1024);
   console.log(`[Generador] Peso físico en disco: ${sizeInMB.toFixed(2)} MB`);
 });
+
