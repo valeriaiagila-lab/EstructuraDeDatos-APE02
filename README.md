@@ -14,7 +14,6 @@ métodos de lectura de archivos en JavaScript utilizando Node.js.
 | 👨‍🏫 Docente | Cristian Ramiro Narváez Guillén |
 | 💻 Tecnología | JavaScript y Node.js |
 | 🛠️ Editor | Visual Studio Code |
-
 ---
 
 ## 👥 Integrantes del grupo
