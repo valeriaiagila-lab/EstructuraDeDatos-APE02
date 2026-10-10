@@ -8,6 +8,8 @@ const memoryBefore = process.memoryUsage().heapUsed;
 const start = performance.now();
 
 // I/O Bloqueante: El hilo principal se detiene hasta cargar todo
+
+
 const data = fs.readFileSync(FILE_NAME, 'utf-8');
 
 // Simulamos procesamiento separando por saltos de línea
